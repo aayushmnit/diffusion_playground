@@ -9,3 +9,5 @@ Some diffusion playground examples -
 <br>![img2img example](/img/2_img2img.png)
 3. [Implementing linear interpolation](./notebooks/3_imageinterpolation.ipynb)
 <br>![interpolation example](/img/3_interpolation.gif)
+4. [DiffEdit implementation](./notebooks/4_DiffEdit_v3.ipynb)
+<br>![DiffEdit example](/img/4_diffedit.png)
