@@ -10,4 +10,4 @@ Some diffusion playground examples -
 3. [Implementing linear interpolation](./notebooks/3_imageinterpolation.ipynb)
 <br>![interpolation example](/img/3_interpolation.gif)
 4. [DiffEdit implementation](./notebooks/4_DiffEdit_v4.ipynb)
-<br>![DiffEdit example](/img/4_diffedit.png)
+<br>![DiffEdit example](/img/4_diffeditUpdated.png)
